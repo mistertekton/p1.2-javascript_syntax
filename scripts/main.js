@@ -1,10 +1,11 @@
-// this is a log to the console, we use this for debug information
+// init variables
 var visible = true;
 var styled = false;
 var domesticated = false;
 
 function load()
 {
+    // this is a log to the console, we use this for debug information
     console.log('Loading body content..');
 }
 
