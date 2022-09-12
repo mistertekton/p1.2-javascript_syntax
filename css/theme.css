@@ -1,0 +1,35 @@
+body
+{
+    padding:32px;
+    margin:32px;
+}
+
+.cell
+{
+    margin:32px;
+    font-size:18px;
+}
+
+.image_holder
+{
+    height:400px;
+}
+
+.visibility_area
+{
+    display:block;
+    background-color:green;
+    height:300px;
+    width:300px;
+}
+
+.styled_area
+{
+    text-align: center;
+    display:block;
+    color:black;
+    background-color:blue;
+    height:300px;
+    width:300px;
+}
+
